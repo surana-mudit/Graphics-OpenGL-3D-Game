@@ -2,17 +2,17 @@
 
 ## Controls:
 Boat Movement ::
-	* left : turn left
-	* right : turn right
-	* up : move straight
-	* down : move back
-	* space bar : jump.
+  * left : turn left
+  * right : turn right
+  * up : move straight
+  * down : move back
+  * space bar : jump.
 Views ::
-	* z : follow-cam view
-	* x : top-view
-	* c : boat-view
-	* v : tower-view
-	* b : helicopter-view
+  * z : follow-cam view
+  * x : top-view
+  * c : boat-view
+  * v : tower-view
+  * b : helicopter-view
   * Change position of cursor to view the world
 Cannon ::
 	* Mouse cursor movement to move the cannon
